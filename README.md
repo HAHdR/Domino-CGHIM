@@ -7,6 +7,13 @@ Projeto de um jogo de Dominó. Feito no modelo MVC. Inclui reembaralhar, girar a
 # ▶️ Execução
 Abra e execute o projeto em um compilador C.
 
-# 👨‍💻 Autor
+# 👨‍💻 Autores
+Carolina Olmos Gracio Castanho
+
+Geovanna Cristina Brezinger
+
 Henrique Abreu Hollanda da Rocha
 
+Isabela Nunes dos Santos
+
+Matheus Guido Noronha Moreira Passos
