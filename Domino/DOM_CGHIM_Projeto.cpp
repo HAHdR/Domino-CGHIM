@@ -8,10 +8,11 @@ Isabela Nunes dos Santos
 Matheus Guido Noronha Moreira Passos
 */
 
-#include "Dom_CGHIM_Model.cpp"
-#include "Dom_CGHIM_Controller.cpp"
+#include "Model/Dom_CGHIM_Model.cpp"
+#include "Controller/Dom_CGHIM_Controller.cpp"
 
 main(){
 	tipopeca pecas[28];
 	fMenu(pecas);
+
 }
