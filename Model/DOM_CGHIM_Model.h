@@ -1,0 +1,1 @@
+//void criarPecas(tipopeca pecas[28]);
