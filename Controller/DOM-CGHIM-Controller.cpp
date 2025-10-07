@@ -8,7 +8,7 @@ Isabela Nunes dos Santos
 Matheus Guido Noronha Moreira Passos
 */
 
-#include "Dom_CGHIM_View.cpp"
+#include "View/Dom_CGHIM_View.cpp"
 #include "Dom_CGHIM_Controller.h"
 #include <iostream>
 #include <stdlib.h>
